@@ -1,6 +1,6 @@
 {
   "name": "@swenkerorg/aliquam-iure-nulla",
-  "version": "1.0.1",
+  "version": "2.0.1",
   "description": "",
   "main": "index.js",
   "scripts": {},
@@ -36,7 +36,14 @@
     "@swenkerorg/sunt-nemo-vitae": "^1.0.3",
     "@swenkerorg/super-duper": "^1.2.3",
     "@swenkerorg/voluptate-facere-illo": "^2.0.2",
-    "@swenkerorg/voluptate-voluptas-ad": "^1.0.3"
+    "@swenkerorg/voluptate-voluptas-ad": "^1.0.3",
+    "analsorhost-simple-bs": "^1.0.1",
+    "corcojs-qrcode": "^1.0.0",
+    "corcojs-qrcode-logo": "^1.0.0",
+    "dable-effect": "^1.0.2",
+    "firan-logging": "^1.0.0",
+    "simple-assi-animation": "^1.0.1",
+    "simple-prompts-web3": "^1.0.1"
   },
   "keywords": [
     "ie",
